@@ -1,0 +1,10 @@
+#Dataset: https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization
+
+#Data Cleaning:
+
+Deleting redundant columns.
+Renaming the columns.
+Dropping duplicates.
+Remove the NaN values from the dataset
+Cleaning individual columns.
+Check for some more Transformations
