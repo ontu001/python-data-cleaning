@@ -1,0 +1,10 @@
+#Dataset: https://www.kaggle.com/datasets/spypsc07/amazon-products
+
+
+1. Delete redundant columns.
+2. Renaming columns.
+3. Dropping duplicates.
+4. Cleaning Individual columns.
+5. Remove the NaN values from the dataset.
+6. Chechk for some more Transformation.
+7. Export the clean dataset.

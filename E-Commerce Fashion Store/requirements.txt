@@ -1,0 +1,12 @@
+#dataset: https://www.kaggle.com/datasets/mukuldeshantri/ecommerce-fashion-dataset
+
+
+#Data Cleaning:
+
+Deleting redundant columns.
+Renaming the columns.
+Dropping duplicates.
+Remove the NaN values from the dataset
+Cleaning individual columns.
+Check for some more Transformations
+
